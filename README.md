@@ -1,9 +1,16 @@
-# Hi there, Yassien here 👋
+# Hi, Yassien here 👋
 ## Software Developer
+
 ###Skills
+
+Languages:
 - HTML
 - CSS
 - JavaScript
+
+
+Soft-skills:
+- 
 <!--
 **yassienAbdillahi/yassienAbdillahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
