@@ -2,10 +2,6 @@
 ## Software Developer
 
 
-
-
-Soft-skills:
-- 
 <!--
 **yassienAbdillahi/yassienAbdillahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
