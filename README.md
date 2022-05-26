@@ -1,12 +1,8 @@
-# Hi, Yassien here 👋
+# Yassien
 ## Software Developer
 
 
 
-Languages:
-- HTML
-- CSS
-- JavaScript
 
 Soft-skills:
 - 
