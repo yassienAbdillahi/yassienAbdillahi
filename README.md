@@ -8,7 +8,6 @@ Languages:
 - CSS
 - JavaScript
 
-
 Soft-skills:
 - 
 <!--
