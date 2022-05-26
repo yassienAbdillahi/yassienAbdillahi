@@ -7,7 +7,6 @@ Languages:
 - HTML
 - CSS
 - JavaScript
-
 Soft-skills:
 - 
 <!--
