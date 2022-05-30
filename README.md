@@ -3,7 +3,7 @@ A Fullstack Developer currently completing the Skills Bootcamp with Founders and
 
 Skills: HTML | CSS | Javascript | Git
 
-- 🔭 I’m currently working on an agency website for a fictional software development company 
+- 🔭 Right now I am working on an [agency website](https://fac25.github.io/week2-markup-Suraj-Yassien/) for a fictional software development company 
 - 🌱 I’m currently learning the intricacies of CSS and Javascript 
 - 😄 Pronouns: he/him 
 
