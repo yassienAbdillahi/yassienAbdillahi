@@ -3,7 +3,7 @@ A Fullstack Developer currently completing the Skills Bootcamp with Founders and
 
 Skills: HTML | CSS | Javascript | Git
 
-- 🔭 Right now I am working on a [register feature](https://github.com/yassienAbdillahi/tineyTakeHomeChallenge) for a nursery 
+- 🔭 Right now I am working on an [interval timer](https://github.com/yassienAbdillahi/pomodoroTimer) productivity tool
 - 🌱 Besides working on projects, at present I am continuing to learn and improve my skills with HTML, CSS and Javascript 
 - 😄 Pronouns: he/him 
 
